@@ -1,13 +1,3 @@
-# Welcome to William Davidsen's profile 👋
-
-## Languages/tools I have used
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,apple,bash,c,ubuntu,vercel,cs,ts,cpp,css,debian,discord,docker,dotnet,figma,git,github,gitlab,html,idea,r,react,ai,java,nodejs,powershell,spring,js,jquery,linux,matlab,mysql,nextjs,notion,npm,postgres,py,visualstudio,vite,vitest,windows,vscode&perline=10" />
-</p>
-
-## About me
-
 # Hi, I'm William Davidsen 👋
 
 ## 👨‍💻 About me
