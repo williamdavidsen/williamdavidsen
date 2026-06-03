@@ -94,22 +94,3 @@ A web application project built with modern frontend technologies.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamdavidsen&show_icons=true&theme=default" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdavidsen&layout=compact&theme=default" />
-</p>
-
----
-
-## 📫 Connect with me
-
-<p align="left">
-  <a href="https://github.com/williamdavidsen">
-    <img src="https://img.shields.io/badge/GitHub-williamdavidsen-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
