@@ -1,3 +1,9 @@
+## 🛠️ Languages and tools I have used
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,apple,bash,c,ubuntu,vercel,cs,ts,cpp,css,debian,discord,docker,dotnet,figma,git,github,gitlab,html,idea,r,react,ai,java,nodejs,powershell,spring,js,jquery,linux,matlab,mysql,nextjs,notion,npm,postgres,py,visualstudio,vite,vitest,windows,vscode&perline=10" />
+</p>
+
 # Hi, I'm William Davidsen 👋
 
 ## 👨‍💻 About me
@@ -50,13 +56,7 @@ The platform includes checks for:
   <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,vite,vitest,postgres,docker,powershell,github,vercel&perline=11" />
 </p>
 
----
 
-## 🛠️ Languages and tools I have used
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,apple,bash,c,ubuntu,vercel,cs,ts,cpp,css,debian,discord,docker,dotnet,figma,git,github,gitlab,html,idea,r,react,ai,java,nodejs,powershell,spring,js,jquery,linux,matlab,mysql,nextjs,notion,npm,postgres,py,visualstudio,vite,vitest,windows,vscode&perline=10" />
-</p>
 
 ---
 
